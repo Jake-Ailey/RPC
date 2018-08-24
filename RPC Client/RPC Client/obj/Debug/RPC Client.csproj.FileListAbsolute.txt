@@ -1,0 +1,6 @@
+C:\Users\s181205\Desktop\Remote Procedure Calls\RPC Client\RPC Client\bin\Debug\RPC Client.exe.config
+C:\Users\s181205\Desktop\Remote Procedure Calls\RPC Client\RPC Client\bin\Debug\RPC Client.exe
+C:\Users\s181205\Desktop\Remote Procedure Calls\RPC Client\RPC Client\bin\Debug\RPC Client.pdb
+C:\Users\s181205\Desktop\Remote Procedure Calls\RPC Client\RPC Client\obj\Debug\RPC Client.csproj.CoreCompileInputs.cache
+C:\Users\s181205\Desktop\Remote Procedure Calls\RPC Client\RPC Client\obj\Debug\RPC Client.exe
+C:\Users\s181205\Desktop\Remote Procedure Calls\RPC Client\RPC Client\obj\Debug\RPC Client.pdb

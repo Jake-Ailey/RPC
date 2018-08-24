@@ -1,0 +1,7 @@
+C:\Users\s181205\Desktop\Remote Procedure Calls\RPC Server\RPC Server\obj\Debug\RPC Server.csprojResolveAssemblyReference.cache
+C:\Users\s181205\Desktop\Remote Procedure Calls\RPC Server\RPC Server\obj\Debug\RPC Server.csproj.CoreCompileInputs.cache
+C:\Users\s181205\Desktop\Remote Procedure Calls\RPC Server\RPC Server\bin\Debug\RPC Server.exe.config
+C:\Users\s181205\Desktop\Remote Procedure Calls\RPC Server\RPC Server\bin\Debug\RPC Server.exe
+C:\Users\s181205\Desktop\Remote Procedure Calls\RPC Server\RPC Server\bin\Debug\RPC Server.pdb
+C:\Users\s181205\Desktop\Remote Procedure Calls\RPC Server\RPC Server\obj\Debug\RPC Server.exe
+C:\Users\s181205\Desktop\Remote Procedure Calls\RPC Server\RPC Server\obj\Debug\RPC Server.pdb
